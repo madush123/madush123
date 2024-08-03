@@ -21,7 +21,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/madushanchathuranghe" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madushanchathuranghe" height="30" width="40" />
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="madushanchathuranghe" height="30" width="40" />
   </a>
   <a href="https://instagram.com/madushan_chathuranghe" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madushan_chathuranghe" height="30" width="40" />
