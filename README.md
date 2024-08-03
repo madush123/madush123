@@ -3,25 +3,29 @@
 
 <h3 align="center">An undergraduate of University of Kelaniya from Sri Lanka</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=madush123&label=Profile%20views&color=0e75b6&style=flat" alt="madush123" />
-</p>
-- 🌱 &nbsp; I’m currently learning **Data Structures and Algorithms in Java**<br>
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.<br>
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.<br>
-- 💼 &nbsp; Android developer and front-end web developer.<br>
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.<br>
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.<br>
-- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.<br>
-- 💬 &nbsp; Ask me about **React, Web development**<br>
-- 📫 &nbsp; How to reach me **madushanchathuranghe192@gmail.com**<br>
-- ⚡ &nbsp; Fun fact **Call me as MCR**
-   
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" height="350" width="350" style="float:right"/>
+<table style="border: none;">
+  <tr>
+    <td style="border: none;">
+      - 🌱 &nbsp; I’m currently learning **Data Structures and Algorithms in Java**<br>
+      - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.<br>
+      - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.<br>
+      - 💼 &nbsp; Android developer and front-end web developer.<br>
+      - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.<br>
+      - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.<br>
+      - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.<br>
+      - 💬 &nbsp; Ask me about **React, Web development**<br>
+      - 📫 &nbsp; How to reach me **madushanchathuranghe192@gmail.com**<br>
+      - ⚡ &nbsp; Fun fact **Call me as MCR**
+    </td>
+    <td style="border: none;">
+      <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" height="350" width="350"/>
+    </td>
+  </tr>
+</table>
+
 
 
 <img height="50" width="100%" src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966"/>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/madushanchathuranghe" target="blank">
