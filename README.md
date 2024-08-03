@@ -1,3 +1,4 @@
+<p align="center"><picture align="center"><img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture></p>
 <h1 align="center">Hi 👋, I'm Madushan Chathuranghe</h1>
 <h3 align="center">An undergraduate of University of Kelaniya from Sri Lanka</h3>
 
@@ -5,17 +6,17 @@
   <img src="https://komarev.com/ghpvc/?username=madush123&label=Profile%20views&color=0e75b6&style=flat" alt="madush123" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=madush123" alt="madush123" />
-  </a>
-</p>
-
-- 🌱 I’m currently learning **Data Structures and Algorithms in Java**
-- 💬 Ask me about **React, Web development**
-- 📫 How to reach me **madushanchathuranghe192@gmail.com**
-- ⚡ Fun fact **Call me as MCR**
-
+- 🌱 &nbsp; I’m currently learning **Data Structures and Algorithms in Java**
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 💼 &nbsp; Android developer and front-end web developer.
+- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
+- 💬 &nbsp; Ask me about **React, Web development**
+- 📫 &nbsp; How to reach me **madushanchathuranghe192@gmail.com**
+- ⚡ &nbsp; Fun fact **Call me as MCR**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/madushanchathuranghe" target="blank">
@@ -37,30 +38,29 @@
 ------
 <h3 align="left">Activity:</h3>
 
-[![Madushan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=madush123&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/madush123/github-readme-activity-graph)
+[![madush123's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=madush123&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/madush123/github-readme-activity-graph)
 
 <div align="center">
   <a href="https://github.com/madush123">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=madush123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="madush123"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madush123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="madush123"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=madush123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="madush123"/>
   </a>
-</div>
-<p align="center">
   <a href="https://github.com/madush123">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=madush123&&theme=tokyonight" alt="madush123" />
   </a>
-</p>
+  
+</div>
+
 
 ------
 <h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,java,python,nodejs,nginx,vite"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=php,java,python,nodejs,nginx,vite,aws"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,figma,ps,wordpress"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
@@ -72,11 +72,11 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,intellij"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,idea,clion"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=bash"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=bash,powershell"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
