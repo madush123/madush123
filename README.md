@@ -1,5 +1,5 @@
 <p align="center"><picture align="center"><img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture></p>
-<h1 align="center">Hi 👋, I'm Madushan Chathuranghe</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">, I'm Madushan Chathuranghe</h1>
 <h3 align="center">An undergraduate of University of Kelaniya from Sri Lanka</h3>
 
 <p align="center">
@@ -18,16 +18,13 @@
 - ⚡ &nbsp; Fun fact **Call me as MCR**
 ------
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://linkedin.com/in/madushanchathuranghe" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madushanchathuranghe" height="30" width="40" />
   </a>
   <a href="https://instagram.com/madushan_chathuranghe" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madushan_chathuranghe" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/madushan_chathuranghe" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="madushanchathuranghe192" height="30" width="40" />
   </a>
 </p>
 
