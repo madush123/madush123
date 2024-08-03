@@ -16,7 +16,8 @@
 - 💬 &nbsp; Ask me about **React, Web development**
 - 📫 &nbsp; How to reach me **madushanchathuranghe192@gmail.com**
 - ⚡ &nbsp; Fun fact **Call me as MCR**
-  
+------
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/madushanchathuranghe" target="blank">
@@ -25,15 +26,10 @@
   <a href="https://instagram.com/madushan_chathuranghe" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madushan_chathuranghe" height="30" width="40" />
   </a>
-</p>
-
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/madushan_chathuranghe">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="madushan_chathuranghe" />
+  <a href="https://instagram.com/madushan_chathuranghe" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="madushanchathuranghe192" height="30" width="40" />
   </a>
 </p>
-<br><br>
 
 ------
 <h3 align="left">Activity:</h3>
@@ -52,8 +48,8 @@
 
 
 ------
-<h3 align="left">Languages and Tools:</h3>
-<table>
+<br><h3 align="left">Languages and Tools:</h3>
+<table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=php,java,python,nodejs,nginx,vite,aws"/></td>
@@ -82,6 +78,12 @@
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,debian,ubuntu"/></td>
     </tr>
-</table>
+</table><br>
 
 ------
+<h3 align="center">Support:</h3>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/madushan_chathuranghe">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="madushan_chathuranghe" />
+  </a>
+</p>
