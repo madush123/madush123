@@ -17,9 +17,6 @@
       - 📫 &nbsp; How to reach me **madushanchathuranghe192@gmail.com**<br>
       - ⚡ &nbsp; Fun fact **Call me as MCR**
     </td>
-    <td style="border: none;">
-      <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" height="350" width="350"/>
-    </td>
   </tr>
 </table>
 
