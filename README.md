@@ -17,12 +17,12 @@
       - 📫 &nbsp; How to reach me **madushanchathuranghe192@gmail.com**<br>
       - ⚡ &nbsp; Fun fact **Call me as MCR**
     </td>
-  </tr>
-  <td style="border: none;">
+    <td style="border: none;">
       <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" height="350" width="350"/>
   </td>
+  </tr>
+  
 </table>
-<img height="50" width="100%" src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966"/>
 
 
 
