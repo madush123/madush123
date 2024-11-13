@@ -25,7 +25,6 @@
 </table>
 
 
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/madushanchathuranghe" target="blank">
@@ -36,7 +35,7 @@
   </a>
 </p>
 
-<img height="50" width="100%" src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966"/>
+
 
 <h3 align="left">Activity:</h3>
 
@@ -52,7 +51,7 @@
   
 </div>
 <br>
-<img height="50" width="100%" src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966"/>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <table align="center">
@@ -86,7 +85,7 @@
     </tr>
 </table><br>
 
-<img height="50" width="100%" src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966"/>
+
 
 <h3 align="center">Support:</h3>
 <p align="center">
@@ -95,6 +94,6 @@
   </a>
 </p>
 
-<img height="50" width="100%" src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966"/>
+
 
 <p align="center" dir="auto"><b>Created with 🧡 by </b><a href="https://github.com/madush123">Madushan Chathuranghe</a></p>
